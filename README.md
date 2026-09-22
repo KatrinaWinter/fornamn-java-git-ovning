@@ -9,7 +9,7 @@ att läraren kan se koden och kontrollera commits och
 utvecklingen över tid.
 
 Så kör jag: Run i IDE:n 
-Jag ser till att vara i min .java fil, sen trycker 
-jag på gröna pilen ovanför filen eller den gråa pilen 
-til vänste om vyn där man också hittar iconen till 
+Jag ser till att vara i min .java-fil, och trycker sedan på
+den gröna pilen ovanför filen, eller den grå pilen 
+til vänste om vyn där man också hittar ikonen till 
 terminalen ">_".
